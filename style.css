@@ -1,0 +1,9 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    font-family:'Franklin gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:blue(135deg, #e3f2fd, #f2f2f2);
+    min-height: ;
